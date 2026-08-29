@@ -1,0 +1,12 @@
+pyTelegramBotAPI==4.14.0
+requests==2.31.0
+psycopg2-binary==2.9.9
+pandas==2.1.4
+numpy==1.26.2
+pytz==2023.3.post1
+ta==0.11.0
+matplotlib==3.8.2
+mplfinance==0.12.10b0
+
+# لتشغيل الاختبارات محلياً فقط (غير مطلوب على Railway):
+# pip install pytest
